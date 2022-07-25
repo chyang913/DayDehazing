@@ -8,7 +8,7 @@ Matlab R2020b
 
 # Usage
 
-Put the test image in `data` directory. The images in the directory are from this sources.
+Put the test image in `data` directory. The images in the directory are from this source.
 
 B. Li et al., "Benchmarking Single-Image Dehazing and Beyond," in IEEE Transactions on Image Processing, vol. 28, no. 1, pp. 492-505, Jan. 2019.
 
